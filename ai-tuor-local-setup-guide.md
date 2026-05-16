@@ -178,6 +178,7 @@ first deactivate the environment by writting deactivate  then run the frontend
 
 ```bash
 cd frontend
+npm install
 npm run dev
 ```
 
